@@ -41,8 +41,8 @@ This section will provide examples on how to use SattvaHR.  Once the project is 
 
 
 ## Video Demo
-
-[Watch Video](https://www.example.com/demo-video)
+https://sattvahr.com/get-login-details
+[Watch Video](https://youtu.be/YbfXlpDam3s?si=9EYsOO_xNQUv12a9)
 
 
 ## Contributing
@@ -57,6 +57,10 @@ Contributions are welcome! Please follow these guidelines:
 
 Detailed contribution guidelines will be added as the project develops.
 
+Read more
+https://www.linkedin.com/pulse/revolutionizing-workforce-management-discover-power-sattvahr-hr-badsf
+
+https://www.linkedin.com/pulse/learn-more-sattvahr-sattva-hr-onwve
 
 ## License
 
