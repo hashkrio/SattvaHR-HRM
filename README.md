@@ -35,9 +35,9 @@ This section will provide examples on how to use SattvaHR.  Once the project is 
 
 ## Screenshots
 
-![Screenshot 1](https://dummyimage.com/600x400/000/fff&text=Screenshot+1)
-![Screenshot 2](https://dummyimage.com/600x400/000/fff&text=Screenshot+2)
-![Screenshot 3](https://dummyimage.com/600x400/000/fff&text=Screenshot+3)
+![Screenshot 1](https://media.licdn.com/dms/image/v2/D4D12AQHdDOEAugcsag/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735559494963?e=2147483647&v=beta&t=g9UOPRwT4uUOWjSSZWGz7iIWN15lP0KNQ9C646n97IA)
+![Screenshot 2] (https://media.licdn.com/dms/image/v2/D4D12AQFqzdlNScraaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735569177743?e=2147483647&v=beta&t=6QpHttLeLZtNJJ7fTSACzDglA5aXWOL_HntJFEDtX6o)
+
 
 
 ## Video Demo
@@ -62,8 +62,10 @@ https://www.linkedin.com/pulse/revolutionizing-workforce-management-discover-pow
 
 https://www.linkedin.com/pulse/learn-more-sattvahr-sattva-hr-onwve
 
-## License
+##Contact US: 
 
-[Specify the license here, e.g., MIT License](https://opensource.org/licenses/MIT)
+*Email: biz@hashkrio.com
+
+*Chat now : +91 9879048212
 ```
 
