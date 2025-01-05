@@ -35,8 +35,8 @@ This section will provide examples on how to use SattvaHR.  Once the project is 
 
 ## Screenshots
 
-![Screenshot 1](https://media.licdn.com/dms/image/v2/D4D12AQHdDOEAugcsag/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735559494963?e=2147483647&v=beta&t=g9UOPRwT4uUOWjSSZWGz7iIWN15lP0KNQ9C646n97IA)
-![Screenshot 2] (https://media.licdn.com/dms/image/v2/D4D12AQFqzdlNScraaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735569177743?e=2147483647&v=beta&t=6QpHttLeLZtNJJ7fTSACzDglA5aXWOL_HntJFEDtX6o)
+[Screenshot 1](https://media.licdn.com/dms/image/v2/D4D12AQHdDOEAugcsag/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735559494963?e=2147483647&v=beta&t=g9UOPRwT4uUOWjSSZWGz7iIWN15lP0KNQ9C646n97IA)
+[Screenshot 2] (https://media.licdn.com/dms/image/v2/D4D12AQFqzdlNScraaQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1735569177743?e=2147483647&v=beta&t=6QpHttLeLZtNJJ7fTSACzDglA5aXWOL_HntJFEDtX6o)
 
 
 
