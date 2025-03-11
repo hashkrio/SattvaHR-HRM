@@ -5,8 +5,8 @@
 
 SattvaHR is a workforce management solution designed to revolutionize how businesses manage their human resources.  As detailed in this LinkedIn article [Revolutionizing Workforce Management: Discover the Power of SattvaHR, SattvaHR aims to streamline HR processes, improve employee engagement, and optimize overall workforce productivity.  This project aims to provide a comprehensive and efficient platform for managing all aspects of human capital.
 
-# SattvaHR-HRM
-SattvaHR, Best HR Software at Low and afordable cost.
+# SattvaHR-HRM #
+SattvaHR, Best HR Software at afordable cost.
 
 ★ Installation
 
