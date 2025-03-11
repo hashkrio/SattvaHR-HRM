@@ -45,19 +45,7 @@ https://sattvahr.com/get-login-details
 https://youtu.be/YbfXlpDam3s?si=9EYsOO_xNQUv12a9
 
 
-★ Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive messages.
-4. Push your branch to your forked repository.
-5. Submit a pull request.
-
-Detailed contribution guidelines will be added as the project develops.
-
-Read more
+★ Learn more >
 https://www.linkedin.com/pulse/revolutionizing-workforce-management-discover-power-sattvahr-hr-badsf
 
 https://www.linkedin.com/pulse/learn-more-sattvahr-sattva-hr-onwve
